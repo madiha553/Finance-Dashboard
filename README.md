@@ -1,1 +1,2 @@
 # Finance-Dashboard
+This Power BI project features a clean and interactive Finance Performance Dashboard designed to analyze revenue, profit, units sold, and pricing trends across segments, products, and countries. The dataset was cleaned and prepared in Power Query using type corrections, header promotion, and error removal, ensuring a reliable and analysis-ready model. The dashboard delivers a modern, professional layout suitable for business reporting and portfolio presentation.
